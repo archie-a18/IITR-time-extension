@@ -1,0 +1,10 @@
+**IITR CONNECT, GOOGLE CHROME EXTENSION GUIDE**
+
+-Download and Extract the zip file.
+-Open Google Chrome and click on the three dots at the top-right corner.
+-Then go to More tools and select Extensions.
+-Click on the 'Load unpacked' button and select the 'IITR_Connect_extension' folder from your PC.
+-Then, click on the chrome extension logo and select 'Time Manager'.
+-Lastly, click on the coffee logo. Select the tabs and enter the time (in minutes).
+
+ "Enjoy surfing with time management and restrict long time distractions."

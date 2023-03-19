@@ -1,0 +1,9 @@
+body
+{
+    text-align: center;
+	background: linear-gradient(180deg, #ee9175, #e74986);
+	background-size: 400% 400%;
+	-webkit-animation: gradient 15s ease infinite;
+	animation: gradient 15s ease infinite;
+}
+

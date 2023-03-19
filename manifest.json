@@ -1,0 +1,22 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Time Manager",
+  "version": "1.2",
+  "description": "Time management tool",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "notifications",
+    "desktopCapture"
+  ],
+  "web_accessible_resources": [],
+  "background": {
+    "scripts": [
+      "JavaScript/background.js"
+    ]
+  }
+}
